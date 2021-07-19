@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600467247 source:c:\users\admin\desktop\progra salteado\arreglos unidimensionales (21-28)\funciones.c
+	"header.h"
+
+1600465043 c:\users\admin\desktop\progra salteado\arreglos unidimensionales (21-28)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600467260 source:c:\users\admin\desktop\progra salteado\arreglos unidimensionales (21-28)\main.c
+	"header.h"
+
+1600631269 source:c:\users\admin\desktop\progra salteado\21-28 (arreglos unidimensionales)\main.c
+	"header.h"
+
+1600618988 c:\users\admin\desktop\progra salteado\21-28 (arreglos unidimensionales)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600631200 source:c:\users\admin\desktop\progra salteado\21-28 (arreglos unidimensionales)\funciones.c
+	"header.h"
+
+1600631200 source:c:\users\admin\desktop\progra salteado\tp1\21-28 (arreglos unidimensionales)\funciones.c
+	"header.h"
+
+1600618988 c:\users\admin\desktop\progra salteado\tp1\21-28 (arreglos unidimensionales)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600661188 source:c:\users\admin\desktop\progra salteado\tp1\21-28 (arreglos unidimensionales)\main.c
+	"header.h"
+

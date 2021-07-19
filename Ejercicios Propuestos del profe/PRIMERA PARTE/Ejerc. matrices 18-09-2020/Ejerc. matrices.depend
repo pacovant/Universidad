@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600789775 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejerc. matrices 18-09-2020\funciones.c
+	"header.h"
+
+1600789717 c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejerc. matrices 18-09-2020\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600789758 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejerc. matrices 18-09-2020\main.c
+	"header.h"
+

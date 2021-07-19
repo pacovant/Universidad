@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602047186 source:c:\users\admin\desktop\progra salteado\ejercicio 13 pero a texto(para practicar)\main.c
+	"header.h"
+
+1602046741 c:\users\admin\desktop\progra salteado\ejercicio 13 pero a texto(para practicar)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1602047247 source:c:\users\admin\desktop\progra salteado\ejercicio 13 pero a texto(para practicar)\funciones.c
+	"header.h"
+

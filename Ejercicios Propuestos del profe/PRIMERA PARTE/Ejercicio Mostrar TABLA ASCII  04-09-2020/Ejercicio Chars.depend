@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1599340971 source:c:\users\admin\desktop\progra salteado\ejercicio chars\funciones.c
+	"header.h"
+
+1599334164 c:\users\admin\desktop\progra salteado\ejercicio chars\header.h
+	<stdio.h>
+
+1599662826 source:c:\users\admin\desktop\progra salteado\ejercicio chars\main.c
+	"header.h"
+
+1599662826 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio chars\main.c
+	"header.h"
+
+1599334164 c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio chars\header.h
+	<stdio.h>
+
+1599662954 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio chars\funciones.c
+	"header.h"
+

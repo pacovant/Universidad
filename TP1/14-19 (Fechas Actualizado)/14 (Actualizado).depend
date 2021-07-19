@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600043141 source:c:\users\admin\desktop\progra salteado\14 (actualizado)\funciones.c
+	"header.h"
+
+1600040508 c:\users\admin\desktop\progra salteado\14 (actualizado)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600044808 source:c:\users\admin\desktop\progra salteado\14 (actualizado)\main.c
+	"header.h"
+
+1600047510 source:c:\users\admin\desktop\progra salteado\14-19 (fechas actualizado)\main.c
+	"header.h"
+
+1600040508 c:\users\admin\desktop\progra salteado\14-19 (fechas actualizado)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600452638 source:c:\users\admin\desktop\progra salteado\14-19 (fechas actualizado)\funciones.c
+	"header.h"
+
+1600452638 source:c:\users\admin\desktop\progra mio\progra salteado\tp1\14-19 (fechas actualizado)\funciones.c
+	"header.h"
+
+1600040508 c:\users\admin\desktop\progra mio\progra salteado\tp1\14-19 (fechas actualizado)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1601159939 source:c:\users\admin\desktop\progra mio\progra salteado\tp1\14-19 (fechas actualizado)\main.c
+	"header.h"
+

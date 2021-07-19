@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1601183783 source:c:\users\admin\desktop\progra salteado\tp2 1-21\funciones.c
+	"header.h"
+
+1601183465 c:\users\admin\desktop\progra salteado\tp2 1-21\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1601183861 source:c:\users\admin\desktop\progra salteado\tp2 1-21\main.c
+	"header.h"
+
+1601951931 source:c:\users\admin\desktop\progra salteado\tp2\1-21\main.c
+	"header.h"
+
+1601951788 c:\users\admin\desktop\progra salteado\tp2\1-21\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1601951957 source:c:\users\admin\desktop\progra salteado\tp2\1-21\funciones.c
+	"header.h"
+

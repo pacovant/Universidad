@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1600489665 source:c:\users\admin\desktop\progra salteado\ejercicios de matrices (29-37)\funciones.c
+	"header.h"
+
+1600489477 c:\users\admin\desktop\progra salteado\ejercicios de matrices (29-37)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600489625 source:c:\users\admin\desktop\progra salteado\ejercicios de matrices (29-37)\main.c
+	"header.h"
+
+1600653032 source:c:\users\admin\desktop\progra salteado\29-37(ejercicios de matrices)\funciones.c
+	"header.h"
+
+1600653084 c:\users\admin\desktop\progra salteado\29-37(ejercicios de matrices)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600652989 source:c:\users\admin\desktop\progra salteado\29-37(ejercicios de matrices)\main.c
+	"header.h"
+
+1600653032 source:c:\users\admin\desktop\progra salteado\29-36(ejercicios de matrices)\funciones.c
+	"header.h"
+
+1600742218 c:\users\admin\desktop\progra salteado\29-36(ejercicios de matrices)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600653084 source:c:\users\admin\desktop\progra salteado\29-36(ejercicios de matrices)\main.c
+	"header.h"
+
+1600653032 source:c:\users\admin\desktop\progra salteado\tp1\29-36(ejercicios de matrices)\funciones.c
+	"header.h"
+
+1600742218 c:\users\admin\desktop\progra salteado\tp1\29-36(ejercicios de matrices)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600653084 source:c:\users\admin\desktop\progra salteado\tp1\29-36(ejercicios de matrices)\main.c
+	"header.h"
+

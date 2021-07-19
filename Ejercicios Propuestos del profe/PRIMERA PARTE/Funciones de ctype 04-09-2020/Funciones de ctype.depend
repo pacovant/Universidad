@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599597484 source:c:\users\admin\desktop\progra salteado\funciones de ctype\funciones.c
+	"header.h"
+
+1599592077 c:\users\admin\desktop\progra salteado\funciones de ctype\header.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1599598286 source:c:\users\admin\desktop\progra salteado\funciones de ctype\main.c
+	"header.h"
+

@@ -1,0 +1,5 @@
+000000090Agustin Alderete             10000
+000000120Axel Austen                  20000
+000000140Bruno Sosa                   30000
+000000150Cristina Vera                40000
+000000160Lucas Veron                  50000

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602155464 source:c:\users\admin\desktop\progra salteado\pueba\funciones.c
+
+1602155124 c:\users\admin\desktop\progra salteado\pueba\header.h
+	<stdio.h>
+
+1602169018 source:c:\users\admin\desktop\progra salteado\pueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+
+1602155464 source:c:\users\admin\desktop\progra mio\progra salteado\pueba\funciones.c
+

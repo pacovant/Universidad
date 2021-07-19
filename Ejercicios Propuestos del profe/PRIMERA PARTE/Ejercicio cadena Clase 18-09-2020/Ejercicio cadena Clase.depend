@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600663894 source:c:\users\admin\desktop\progra salteado\ejercicio cadena clase\funciones.c
+	"header.h"
+
+1600663121 c:\users\admin\desktop\progra salteado\ejercicio cadena clase\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600661937 source:c:\users\admin\desktop\progra salteado\ejercicio cadena clase\main.c
+	"header.h"
+
+1600717316 source:c:\users\admin\desktop\progra salteado\ejercicio cadena clase 18-09-2020\main.c
+	"header.h"
+
+1600702029 c:\users\admin\desktop\progra salteado\ejercicio cadena clase 18-09-2020\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600717889 source:c:\users\admin\desktop\progra salteado\ejercicio cadena clase 18-09-2020\funciones.c
+	"header.h"
+
+1600717940 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio cadena clase 18-09-2020\main.c
+	"header.h"
+
+1600702029 c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio cadena clase 18-09-2020\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1600788251 source:c:\users\admin\desktop\progra salteado\ejercicios propuestos del profe\primera parte\ejercicio cadena clase 18-09-2020\funciones.c
+	"header.h"
+
